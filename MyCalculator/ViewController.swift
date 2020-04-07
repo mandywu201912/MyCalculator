@@ -1,0 +1,20 @@
+//
+//  ViewController.swift
+//  MyCalculator
+//
+//  Created by Riva WU on 2020/4/7.
+//  Copyright © 2020 whale miracle. All rights reserved.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
